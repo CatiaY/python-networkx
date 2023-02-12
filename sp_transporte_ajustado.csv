@@ -1,0 +1,208 @@
+id;_estacaoId;_nome;_ordem;_linhaId;_linha;_tipoId;_tipo;baldeacao;pos_x;pos_y
+101;8;Tucuruvi;1;1;1-Azul;1;Metrô;;520;663
+102;9;Parada Inglesa;1;1;1-Azul;1;Metrô;;520;645
+103;10;Jardim São Paulo-Ayrton Senna;1;1;1-Azul;1;Metrô;;520;627
+104;11;Santana;1;1;1-Azul;1;Metrô;;520;612
+105;12;Carandiru;1;1;1-Azul;1;Metrô;;520;595
+106;13;Portuguesa-Tietê;1;1;1-Azul;1;Metrô;;520;580
+107;14;Armênia;1;1;1-Azul;1;Metrô;;520;566
+108;15;Tiradentes;1;1;1-Azul;1;Metrô;;520;546
+109;171;Luz;1;1;1-Azul;1;Metrô;401 718 1101;520;490
+110;17;São Bento;1;1;1-Azul;1;Metrô;;520;450
+111;186;Sé;1;1;1-Azul;1;Metrô;306;520;418
+112;19;Japão-Liberdade;1;1;1-Azul;1;Metrô;;520;381
+113;20;São Joaquim;1;1;1-Azul;1;Metrô;;520;345
+114;21;Vergueiro;1;1;1-Azul;1;Metrô;;520;305
+115;174;Paraíso;1;1;1-Azul;1;Metrô;207;520;272
+116;152;Ana Rosa;1;1;1-Azul;1;Metrô;208;520;247
+117;24;Vila Mariana;1;1;1-Azul;1;Metrô;;520;221
+118;25;Santa Cruz;1;1;1-Azul;1;Metrô;516;520;197
+119;26;Praça da Árvore;1;1;1-Azul;1;Metrô;;520;184
+120;27;Saúde;1;1;1-Azul;1;Metrô;;520;165
+121;28;São Judas;1;1;1-Azul;1;Metrô;;520;150
+122;29;Conceição;1;1;1-Azul;1;Metrô;;520;133
+123;30;Jabaquara;1;1;1-Azul;1;Metrô;;520;108
+201;188;Vila Madalena;2;2;2-Verde;1;Metrô;;356;422
+202;52;S. N. Sra. De Fátima-Sumaré;2;2;2-Verde;1;Metrô;;372;405
+203;51;Clínicas;2;2;2-Verde;1;Metrô;;389;388
+204;50;Consolação;2;2;2-Verde;1;Metrô;404;418;364
+205;49;Trianon-Masp;2;2;2-Verde;1;Metrô;;455;322
+206;48;Brigadeiro;2;2;2-Verde;1;Metrô;;482;297
+207;175;Paraíso;2;2;2-Verde;1;Metrô;115;508;270
+208;153;Ana Rosa;2;2;2-Verde;1;Metrô;116;508;247
+209;149;Chácara Klabin;2;2;2-Verde;1;Metrô;517;566;234
+210;150;Santos-Imigrantes;2;2;2-Verde;1;Metrô;;601;234
+211;151;Alto do Ipiranga;2;2;2-Verde;1;Metrô;;658;262
+212;200;Sacomã;2;2;2-Verde;1;Metrô;;687;288
+213;201;Tamanduateí;2;2;2-Verde;1;Metrô;1004;719;319
+214;202;Vila Prudente;2;2;2-Verde;1;Metrô;1501;738;337
+301;156;Palmeiras-Barra Funda;3;3;3-Vermelha;1;Metrô;717 821;430;480
+302;32;Marechal Deodoro;3;3;3-Vermelha;1;Metrô;;441;465
+303;33;Santa Cecília;3;3;3-Vermelha;1;Metrô;;453;456
+304;338;República;3;3;3-Vermelha;1;Metrô;402;468;439
+305;35;Anhangabaú;3;3;3-Vermelha;1;Metrô;;496;431
+306;187;Sé;3;3;3-Vermelha;1;Metrô;111;519;431
+307;36;Pedro II;3;3;3-Vermelha;1;Metrô;;558;431
+308;157;Brás;3;3;3-Vermelha;1;Metrô;719 1001 1102 1201;590;431
+309;38;Bresser-Mooca;3;3;3-Vermelha;1;Metrô;;621;455
+310;39;Belém;3;3;3-Vermelha;1;Metrô;;642;455
+311;182;Tatuapé;3;3;3-Vermelha;1;Metrô;1103 1202;661;455
+312;41;Carrão;3;3;3-Vermelha;1;Metrô;;688;455
+313;42;Penha;3;3;3-Vermelha;1;Metrô;;706;455
+314;43;Vila Matilde;3;3;3-Vermelha;1;Metrô;;728;455
+315;44;Guilhermina-Esperança;3;3;3-Vermelha;1;Metrô;;752;455
+316;45;Patriarca;3;3;3-Vermelha;1;Metrô;;774;455
+317;46;Artur Alvim;3;3;3-Vermelha;1;Metrô;;792;455
+318;165;Corinthians-Itaquera;3;3;3-Vermelha;1;Metrô;1104;818;455
+401;211;Luz;4;17;4-Amarela;1;Metrô;109 718 1101;520;480
+402;212;República;4;17;4-Amarela;1;Metrô;304;470;430
+403;346;Higienópolis-Mackenzie;4;17;4-Amarela;1;Metrô;;439;397
+404;214;Paulista;4;17;4-Amarela;1;Metrô;204;403;363
+405;347;Oscar Freire;4;17;4-Amarela;1;Metrô;;380;346
+406;340;Fradique Coutinho;4;17;4-Amarela;1;Metrô;;347;347
+407;218;Faria Lima;4;17;4-Amarela;1;Metrô;;317;350
+408;335;Pinheiros;4;17;4-Amarela;1;Metrô;906;280;347
+409;220;Butantã;4;17;4-Amarela;1;Metrô;;206;348
+410;354;São Paulo-Morumbi;4;17;4-Amarela;1;Metrô;;142;346
+501;54;Capão Redondo;5;10;5-Lilás;1;Metrô;;140;136
+502;55;Campo Limpo;5;10;5-Lilás;1;Metrô;;173;136
+503;56;Vila das Belezas;5;10;5-Lilás;1;Metrô;;210;136
+504;57;Giovanni Gronchi;5;10;5-Lilás;1;Metrô;;243;136
+505;179;Santo Amaro;5;10;5-Lilás;1;Metrô;913;272;136
+506;59;Largo 13;5;10;5-Lilás;1;Metrô;;300;136
+507;339;Adolfo Pinheiro;5;10;5-Lilás;1;Metrô;;326;136
+508;343;Alto da Boa Vista;5;10;5-Lilás;1;Metrô;;347;136
+509;344;Borba Gato;5;10;5-Lilás;1;Metrô;;371;136
+510;345;Brooklin;5;10;5-Lilás;1;Metrô;;391;136
+511;359;Campo Belo;5;10;5-Lilás;1;Metrô;;422;136
+512;348;Eucaliptos;5;10;5-Lilás;1;Metrô;;443;143
+513;349;Moema;5;10;5-Lilás;1;Metrô;;461;163
+514;350;AACD-Servidor;5;10;5-Lilás;1;Metrô;;475;180
+515;351;Hospital São Paulo;5;10;5-Lilás;1;Metrô;;494;195
+516;352;Santa Cruz;5;10;5-Lilás;1;Metrô;118;531;195
+517;353;Chácara Klabin;5;10;5-Lilás;1;Metrô;209;561;225
+701;203;Jundiaí;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;153;742
+702;204;Várzea Paulista;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;213;742
+703;205;Campo Limpo Paulista;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;266;742
+704;206;Botujuru;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;284;722
+705;64;Francisco Morato;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;301;709
+706;65;Baltazar Fidélis;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;322;686
+707;66;Franco da Rocha;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;322;670
+708;67;Caieiras;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;322;649
+709;68;Perus;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;322;634
+710;266;Vila Aurora;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;322;614
+711;69;Jaraguá;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;322;595
+712;70;Vila Clarice;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;322;583
+713;71;Pirituba;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;322;564
+714;72;Piqueri;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;322;546
+715;73;Lapa;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;377;503
+716;74;Água Branca;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;;404;503
+717;154;Palmeiras-Barra Funda;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;301 821;429;503
+718;170;Luz;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;109 401 1101;521;503
+719;;Brás;7;4;7-Rubi (Luz-Francisco Morato-Jundiaí);2;CPTM;308 1001 1102 1201;591;453
+801;;Amador Bueno;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;12;490
+802;;Santa Rita;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;35;490
+803;79;Itapevi;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;60;490
+804;80;Engenheiro Cardoso;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;77;476
+805;81;Sagrado Coração;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;92;476
+806;82;Jandira;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;108;476
+807;83;Jardim Silveira;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;121;476
+808;84;Jardim Belval;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;136;476
+809;85;Barueri;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;151;476
+810;86;Antônio João;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;161;476
+811;87;Santa Terezinha;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;178;476
+812;88;Carapicuíba;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;195;476
+813;89;General Miguel Costa;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;205;476
+814;90;Quitaúna;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;219;476
+815;91;Comandante Sampaio;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;237;476
+816;172;Osasco;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;901;252;476
+817;176;Presidente Altino;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;902;272;476
+818;94;Imperatriz Leopoldina;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;328;488
+819;95;Domingos de Moraes;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;355;488
+820;96;Lapa;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;389;488
+821;155;Palmeiras-Barra Funda;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;301 717;431;488
+822;148;Júlio Prestes;8;5;8-Diamante (Júlio Prestes-Itapevi-Amador Bueno);2;CPTM;;456;488
+901;173;Osasco;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;816;252;465
+902;177;Presidente Altino;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;817;272;465
+903;97;Ceasa;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;439
+904;98;Vila Lobos-Jaguaré;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;408
+905;190;Cidade Universitária;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;382
+906;100;Pinheiros;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;408;283;357
+907;101;Hebraica-Rebouças;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;328
+908;102;Cidade Jardim;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;295
+909;103;Vila Olímpia;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;272
+910;104;Berrini;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;238
+911;105;Morumbi;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;209
+912;106;Granja Julieta;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;172
+913;178;Santo Amaro;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;505;283;129
+914;107;Socorro;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;81
+915;108;Jurubatuba;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;65
+916;192;Autódromo;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;53
+917;197;Primavera-Interlagos;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;36
+918;198;Grajaú;9;6;9-Esmeralda (Osasco-Grajaú);2;CPTM;;283;14
+1001;158;Brás;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;308 719 1102 1201;590;441
+1002;109;Mooca;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;;647;401
+1003;110;Ipiranga;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;;686;367
+1004;111;Tamanduateí;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;213;730;320
+1005;112;São Caetano;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;;756;297
+1006;113;Utinga;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;;777;275
+1007;114;Prefeito Saladino;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;;795;255
+1008;181;Santo André;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;2006;820;232
+1009;117;Capuava;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;;847;207
+1010;118;Mauá;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;;860;194
+1011;119;Guapituba;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;;874;175
+1012;120;Ribeirão Pires;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;;892;160
+1013;121;Rio Grande da Serra;10;7;10-Turquesa (Luz-Rio Grande da Serra);2;CPTM;;916;138
+1101;169;Luz;11;8;11-Coral-Expresso Leste (Luz-Guaianazes);2;CPTM;;519;513
+1102;159;Brás;11;8;11-Coral-Expresso Leste (Luz-Guaianazes);2;CPTM;308 719 1001 1201;592;465
+1103;183;Tatuapé;11;8;11-Coral-Expresso Leste (Luz-Guaianazes);2;CPTM;311 1202;661;465
+1104;164;Corinthians-Itaquera;11;8;11-Coral-Expresso Leste (Luz-Guaianazes);2;CPTM;318;811;465
+1105;131;Dom Bosco;11;8;11-Coral-Expresso Leste (Luz-Guaianazes);2;CPTM;;838;465
+1106;132;José Bonifácio;11;8;11-Coral-Expresso Leste (Luz-Guaianazes);2;CPTM;;856;465
+1107;166;Guaianazes;11;8;11-Coral-Expresso Leste (Luz-Guaianazes);2;CPTM;;874;465
+1108;167;Guaianazes;11;14;11-Coral (Guaianazes-Estudantes);2;CPTM;;872;465
+1109;134;Antonio Gianetti;11;14;11-Coral (Guaianazes-Estudantes);2;CPTM;;892;465
+1110;135;Ferraz de Vasconcelos;11;14;11-Coral (Guaianazes-Estudantes);2;CPTM;;903;478
+1111;136;Poá;11;14;11-Coral (Guaianazes-Estudantes);2;CPTM;;918;487
+1112;162;Calmon Viana;11;14;11-Coral (Guaianazes-Estudantes);2;CPTM;1213;930;503
+1113;137;Suzano;11;14;11-Coral (Guaianazes-Estudantes);2;CPTM;;950;503
+1114;138;Jundiapeba;11;14;11-Coral (Guaianazes-Estudantes);2;CPTM;;963;503
+1115;139;Braz Cubas;11;14;11-Coral (Guaianazes-Estudantes);2;CPTM;;980;503
+1116;140;Mogi das Cruzes;11;14;11-Coral (Guaianazes-Estudantes);2;CPTM;;995;503
+1117;141;Estudantes;11;14;11-Coral (Guaianazes-Estudantes);2;CPTM;;1013;503
+1201;161;Brás;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;308 719 1001 1102;592;480
+1202;184;Tatuapé;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;311 1103;660;480
+1203;123;Engenheiro Goulart;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;1301;706;512
+1204;196;USP Leste;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;;747;541
+1205;124;Comendador Ermelino;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;;769;541
+1206;125;São Miguel Paulista;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;;793;541
+1207;199;Jardim Helena-Vila Mara;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;;812;541
+1208;126;Itaim Paulista;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;;834;541
+1209;207;Jardim Romano;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;;858;541
+1210;127;Engenheiro Manoel Feio;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;;882;541
+1211;128;Itaquaquecetuba;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;;897;532
+1212;129;Aracaré;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;;911;520
+1213;163;Calmon Viana;12;9;12-Safira (Brás-Calmon Viana);2;CPTM;1112;931;515
+1301;362;Engenheiro Goulart-Jade;13;20;13-Jade;2;CPTM;1203;698;516
+1302;366;Guarulhos-CECAP-Jade;13;20;13-Jade;2;CPTM;;863;730
+1303;367;Aeroporto-Guarulhos-Jade;13;20;13-Jade;2;CPTM;;863;774
+1501;342;Vila Prudente;15;18;15-Prata;1;Metrô;214;736;348
+1502;341;Oratório;15;18;15-Prata;1;Metrô;;761;348
+1503;355;São Lucas;15;18;15-Prata;1;Metrô;;780;348
+1504;356;Camilo Haddad;15;18;15-Prata;1;Metrô;;797;348
+1505;357;Vila Tolstói;15;18;15-Prata;1;Metrô;;819;348
+1506;358;Vila União;15;18;15-Prata;1;Metrô;;838;348
+1507;371;Jardim Planalto;15;18;15-Prata;1;Metrô;;860;348
+1508;372;Sapopemba;15;18;15-Prata;1;Metrô;;881;348
+1509;373;Fazenda da Juta;15;18;15-Prata;1;Metrô;;900;348
+1510;374;São Mateus;15;18;15-Prata;1;Metrô;2008;925;348
+2001;;Berrini;999;11;EMTU;3;EMTU;;320;243
+2002;336;Morumbi;999;11;EMTU;3;EMTU;;320;207
+2003;142;Diadema;999;11;EMTU;3;EMTU;;510;75
+2004;143;Piraporinha;999;11;EMTU;3;EMTU;;573;75
+2005;144;São Bernardo;999;11;EMTU;3;EMTU;;640;75
+2006;180;Santo André;999;11;EMTU;3;EMTU;1008;812;223
+2007;146;Sônia Maria;999;11;EMTU;3;EMTU;;899;308
+2008;147;São Mateus;999;11;EMTU;3;EMTU;1510;927;334
+;145;Ferrazópolis;999;11;EMTU;3;EMTU;;637;13
+;337;Jabaquara;999;11;EMTU;3;EMTU;123;508;108
